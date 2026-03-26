@@ -11,11 +11,11 @@ I’m **Abhinav** (`Abhinav`, reg no `24BCE10453`). I wrote a few small shell sc
 - `script3.sh` - Disk and Permission Auditor for a few common folders
 - `script4.sh` - Log file analyzer (counts keyword matches)
 - `script5.sh` - Open Source Manifesto Generator (interactive)
-- `manifesto_krishna.txt` - Example output from the manifesto generator
+- `manifesto_abhinav.txt` - Example output from the manifesto generator
 
 ## How to run the scripts
 
-From the repo directory (`/home/krishna/oss-audit-24BCE10678`):
+From the repo directory (`/home/abhinav/oss-audit-24BCE10453`):
 
 1. Make them executable (one-time):
    - `chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh`
